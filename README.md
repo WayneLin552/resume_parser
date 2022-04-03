@@ -46,6 +46,7 @@ resume_parser
 	##############
 	
 
+
 4. 文件目录简介：
 	bin：程序主入口
 	logconf: 配置文件，包括日志配置文件log_settings.py，用户配置文件config.ini
